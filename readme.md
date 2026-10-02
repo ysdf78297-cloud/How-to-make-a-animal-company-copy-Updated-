@@ -3,6 +3,8 @@
 CREDITS:
 
 Xera - Developer  
+Remade By Riftix
+Discord: https://discord.gg/9QqA49qD42
 1. Install Base APK & Gamedata
 - Use QuestAppVersionSwitcher to get target APK version
 - Go to the /gamedata folder in this repo and download the wanted game data
